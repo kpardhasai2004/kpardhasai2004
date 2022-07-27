@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm KAPAGANTI PARDHA SAI</h1>
 <h3 align="center">A passionate to become full stack web developer from India</h3>
 
