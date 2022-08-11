@@ -6,7 +6,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kpardhasai2004&show_icons=true&locale=en&layout=compact" alt="kpardhasai2004" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kpardhasai2004&show_icons=true&locale=en" alt="kpardhasai2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpardhasai2004&" alt="kpardhasai2004" /></p>
